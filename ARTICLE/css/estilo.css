@@ -1,0 +1,30 @@
+*{
+	font-family: Verdana;
+	text-align: justify;
+}
+.bg-gris {
+	background: gray;
+	border-radius: 5px;
+}
+img {
+	width: 220px;
+	float: left;
+	margin-right: 20px;
+}
+.margen-abajo {
+	margin-bottom: 30px;
+}
+aside {
+	width: 25%;
+	height: 160%;
+	position: absolute;
+}
+.row {
+	padding: 15px;
+}
+.redondo {
+	border-radius: 100%;
+}
+
+
+
